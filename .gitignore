@@ -1,0 +1,6 @@
+.vscode/
+db.sqlite3
+base.sqlite3
+sqlite3*
+modulos/__pycache__/
+
