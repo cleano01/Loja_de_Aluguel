@@ -1,6 +1,15 @@
 .vscode/
 db.sqlite3
 base.sqlite3
-sqlite3*
-modulos/__pycache__/
+.bd*
+.sqlite3*
 
+
+
+modulos/__pycache__/
+modulos/Aluga/__pycache__/
+modulos/Cancela_Reserva/__pycache__/
+modulos/Cliente/__pycache__/
+modulos/Devolucao_Item/__pycache__/
+modulos/Item/__pycache__/
+modulos/Reserva/__pycache__/
