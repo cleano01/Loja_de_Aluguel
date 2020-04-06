@@ -10,7 +10,7 @@ from modulos.Aluga.Aluga import Aluga
 from modulos.Reserva.Reserva import Reserva
 from modulos.Cancela_Reserva.Cancela_Reserva import Cancela_Reserva
 from modulos.Devolucao_Item.Devolucao_Aluguel import Devolucao_Aluguel
-
+from modulos.Devolucao_Item.Devolucao_Reserva import Devolucao_Reserva
 
 app = Flask(__name__)
 api = Api(app)
@@ -23,7 +23,7 @@ api.add_resource(Aluga, '/alugar')
 api.add_resource(Reserva, '/reservar')
 api.add_resource(Cancela_Reserva, '/cancelar_reserva')
 api.add_resource(Devolucao_Aluguel, '/devolucao_aluguel')
-
+api.add_resource(Devolucao_Reserva, '/devolucao_reserva')
 
 if __name__ == '__main__':
             
