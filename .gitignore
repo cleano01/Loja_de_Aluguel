@@ -4,7 +4,7 @@ base.sqlite3
 base.bd
 .sqlite3*
 
-
+__pycache__/
 
 modulos/__pycache__/
 modulos/Aluga/__pycache__/
