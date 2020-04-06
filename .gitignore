@@ -1,7 +1,7 @@
 .vscode/
 db.sqlite3
 base.sqlite3
-.bd*
+base.bd
 .sqlite3*
 
 
