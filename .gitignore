@@ -5,7 +5,7 @@ base.bd
 .sqlite3*
 
 __pycache__/
-
+Modelos//__pycache__/
 modulos/__pycache__/
 modulos/Aluga/__pycache__/
 modulos/Cancela_Reserva/__pycache__/

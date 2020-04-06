@@ -1,7 +1,6 @@
 from flask import Flask, request
 from flask_restful import Api
 from Modelos.Modelos import Modelos
-
 import rotas
 
 

@@ -1,4 +1,3 @@
-
 from modulos.Cliente.Cliente import Cliente
 from modulos.Item.TipoItem import TipoItem
 from modulos.Item.Item import Item
