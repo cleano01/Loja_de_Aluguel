@@ -14,7 +14,7 @@ Simples API de controle de aluguel de itens
     │   ├── Devolucao_Item    - sub-modulo responsável pela devolução de item de reserva ou aluguel direto.
     │   ├── Item              - sub-modulo responsável cadastro de tipo de item e item.
     │   ├── Reserva           - sub-modulo responsável reserva de item para cliente.
-    ├── Modelos               - modulo responsável por criação do modelo do banco de dados.
+    ├── Modelos               - modulo responsável por criação do modelo/tabelas do banco de dados.
     
     
 #### Requerimentos
@@ -35,6 +35,17 @@ Simples API de controle de aluguel de itens
 #### Executando a API com virtualenv
 -----------------
 * Instale o vitualenv execute o seguinte comando:
+
+      sudo pip install virtualenv
+      
+* No diretório raiz execute o seguinte comando e ative o ambiente:
+
+      source ven_loja/bin/activate
+      
+      
+#### Executando a API com Docker
+-----------------
+* No direotrio do projeto crie uma imagem a sua escolha:
 
       sudo pip install virtualenv
       
