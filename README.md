@@ -31,3 +31,13 @@ Simples API de controle de aluguel de itens
 
       DOCKER >= 18.06
  
+
+#### Executando a API com virtualenv
+-----------------
+* Instale o vitualenv execute o seguinte comando:
+
+      sudo pip install virtualenv
+      
+* No diretório raiz execute o seguinte comando e ative o ambiente:
+
+      source ven_loja/bin/activate
