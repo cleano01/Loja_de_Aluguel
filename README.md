@@ -16,3 +16,18 @@ Simples API de controle de aluguel de itens
     │   ├── Reserva           - sub-modulo responsável reserva de item para cliente.
     ├── Modelos               - modulo responsável por criação do modelo do banco de dados.
     
+    
+#### Requerimentos
+-----------------
+* Versão do python:
+
+      PYTHON >= 3.6
+ 
+* Versão virtualenv
+
+      VIRTUALENV >= 20.0
+      
+* Versão docker
+
+      DOCKER >= 18.06
+ 
