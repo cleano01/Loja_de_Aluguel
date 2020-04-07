@@ -45,10 +45,8 @@ Simples API de controle de aluguel de itens
       
 #### Executando a API com Docker
 -----------------
-* No direotrio do projeto crie uma imagem a sua escolha:
+* No direotrio do projeto crie uma imagem a sua escolha
 
-      sudo pip install virtualenv
       
-* No diretório raiz execute o seguinte comando e ative o ambiente:
+* Exporte uma porta a sua escolha
 
-      source ven_loja/bin/activate
