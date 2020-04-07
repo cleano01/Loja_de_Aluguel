@@ -45,7 +45,7 @@ Simples API de controle de aluguel de itens
       
 #### Executando a API com Docker
 -----------------
-* No direotrio do projeto crie uma imagem a sua escolha
+* No diretório do projeto crie uma imagem a sua escolha
 
       
 * Exporte uma porta a sua escolha
